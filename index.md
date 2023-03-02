@@ -12,3 +12,7 @@ for (int i = 0; i < n; i++) {
   }
 }
 ```
+
+- [x] This is a finished task!
+- [x] We finished this task, too!
+- [ ] Still need to do this one. 
